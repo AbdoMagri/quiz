@@ -1,0 +1,366 @@
+{
+  "quiz_title": "Comprehensive Category Quiz",
+  "categories": [
+    {
+      "category": "Technology",
+      "questions": [
+        {
+          "question": "What does 'CPU' stand for in computing?",
+          "options": [
+            "Central Processing Unit",
+            "Computer Power Unit",
+            "Core Processing Unit",
+            "Central Program Utility"
+          ],
+          "correct_answer": 0,
+          "explanation": "CPU stands for Central Processing Unit, the primary component of a computer that performs most processing."
+        },
+        {
+          "question": "Which of these is a cloud storage service?",
+          "options": [
+            "Google Drive",
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "Windows Explorer"
+          ],
+          "correct_answer": 0,
+          "explanation": "Google Drive is a cloud storage service, while the others are software applications or system tools."
+        },
+        {
+          "question": "What does 'HTML' stand for?",
+          "options": [
+            "HyperText Markup Language",
+            "High-Tech Modern Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correct_answer": 0,
+          "explanation": "HTML stands for HyperText Markup Language, the standard markup language for web pages."
+        },
+        {
+          "question": "Which company developed the Windows operating system?",
+          "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "IBM"
+          ],
+          "correct_answer": 1,
+          "explanation": "Microsoft developed and maintains the Windows operating system."
+        },
+        {
+          "question": "What is the primary function of RAM in a computer?",
+          "options": [
+            "Permanent storage of files",
+            "Temporary data storage for active processes",
+            "Power supply regulation",
+            "Internet connectivity"
+          ],
+          "correct_answer": 1,
+          "explanation": "RAM (Random Access Memory) provides temporary storage for data that the CPU is currently using."
+        }
+      ]
+    },
+    {
+      "category": "Dentistry",
+      "questions": [
+        {
+          "question": "What is the main cause of dental cavities?",
+          "options": [
+            "Genetic factors only",
+            "Bacteria producing acid from sugars",
+            "Drinking cold water",
+            "Chewing hard foods"
+          ],
+          "correct_answer": 1,
+          "explanation": "Cavities are primarily caused by bacteria in the mouth converting sugars into acids that erode tooth enamel."
+        },
+        {
+          "question": "What is the purpose of dental floss?",
+          "options": [
+            "Whitening teeth",
+            "Removing plaque between teeth",
+            "Strengthening enamel",
+            "Freshening breath only"
+          ],
+          "correct_answer": 1,
+          "explanation": "Dental floss removes food particles and plaque from between teeth where toothbrushes can't reach."
+        },
+        {
+          "question": "What does a dentist use an explorer tool for?",
+          "options": [
+            "Polishing teeth",
+            "Detecting cavities and plaque",
+            "Extracting teeth",
+            "Administering anesthesia"
+          ],
+          "correct_answer": 1,
+          "explanation": "An explorer is a dental tool with a sharp point used to detect cavities, plaque, and other dental issues."
+        },
+        {
+          "question": "What is the technical term for wisdom teeth?",
+          "options": [
+            "Canines",
+            "Incisors",
+            "Third molars",
+            "Premolars"
+          ],
+          "correct_answer": 2,
+          "explanation": "Wisdom teeth are the third set of molars that typically emerge in late adolescence or early adulthood."
+        },
+        {
+          "question": "What condition is characterized by grinding or clenching teeth?",
+          "options": [
+            "Gingivitis",
+            "Bruxism",
+            "Cavities",
+            "Periodontitis"
+          ],
+          "correct_answer": 1,
+          "explanation": "Bruxism is the medical term for grinding, gnashing, or clenching teeth, often during sleep."
+        }
+      ]
+    },
+    {
+      "category": "Games",
+      "questions": [
+        {
+          "question": "Which game features building structures and fighting monsters in a blocky world?",
+          "options": [
+            "Fortnite",
+            "Minecraft",
+            "Roblox",
+            "Terraria"
+          ],
+          "correct_answer": 1,
+          "explanation": "Minecraft is a sandbox game known for its blocky graphics where players build structures and survive against monsters."
+        },
+        {
+          "question": "In which game would you find the phrase 'Finish Him!'?",
+          "options": [
+            "Street Fighter",
+            "Mortal Kombat",
+            "Tekken",
+            "Super Smash Bros"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Finish Him!' is famously associated with Mortal Kombat, signaling players to perform a finishing move."
+        },
+        {
+          "question": "Which card game involves collecting monsters, spells, and traps?",
+          "options": [
+            "Pokémon TCG",
+            "Yu-Gi-Oh!",
+            "Magic: The Gathering",
+            "Uno"
+          ],
+          "correct_answer": 1,
+          "explanation": "Yu-Gi-Oh! is a trading card game where players duel using monster, spell, and trap cards."
+        },
+        {
+          "question": "What is the main objective in the game 'Among Us'?",
+          "options": [
+            "Build the tallest tower",
+            "Complete tasks or eliminate impostors",
+            "Collect the most coins",
+            "Solve puzzles to escape"
+          ],
+          "correct_answer": 1,
+          "explanation": "In Among Us, crewmates complete tasks while impostors try to eliminate them without being discovered."
+        },
+        {
+          "question": "Which classic board game involves buying properties and collecting rent?",
+          "options": [
+            "Chess",
+            "Monopoly",
+            "Scrabble",
+            "Risk"
+          ],
+          "correct_answer": 1,
+          "explanation": "Monopoly is a board game where players buy, trade, and develop properties to collect rent from opponents."
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "questions": [
+        {
+          "question": "How many players are on a standard soccer team during a match?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correct_answer": 2,
+          "explanation": "A standard soccer team has 11 players on the field, including one goalkeeper."
+        },
+        {
+          "question": "Which sport is associated with Wimbledon?",
+          "options": [
+            "Golf",
+            "Tennis",
+            "Cricket",
+            "Rugby"
+          ],
+          "correct_answer": 1,
+          "explanation": "Wimbledon is the oldest and most prestigious tennis tournament in the world."
+        },
+        {
+          "question": "What is the diameter of a basketball hoop in inches?",
+          "options": [
+            "15 inches",
+            "17 inches",
+            "18 inches",
+            "20 inches"
+          ],
+          "correct_answer": 2,
+          "explanation": "A regulation basketball hoop has a diameter of 18 inches (45.72 cm)."
+        },
+        {
+          "question": "In baseball, how many strikes result in an out?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correct_answer": 1,
+          "explanation": "In baseball, a batter is out after accumulating three strikes."
+        },
+        {
+          "question": "Which country hosted the 2016 Summer Olympics?",
+          "options": [
+            "China",
+            "Brazil",
+            "United Kingdom",
+            "Russia"
+          ],
+          "correct_answer": 1,
+          "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+        }
+      ]
+    },
+    {
+      "category": "History",
+      "questions": [
+        {
+          "question": "In what year did World War II end?",
+          "options": [
+            "1943",
+            "1945",
+            "1947",
+            "1950"
+          ],
+          "correct_answer": 1,
+          "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
+        },
+        {
+          "question": "Who was the first president of the United States?",
+          "options": [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "George Washington",
+            "John Adams"
+          ],
+          "correct_answer": 2,
+          "explanation": "George Washington served as the first president of the United States from 1789 to 1797."
+        },
+        {
+          "question": "Which ancient civilization built the pyramids of Giza?",
+          "options": [
+            "Romans",
+            "Greeks",
+            "Egyptians",
+            "Mayans"
+          ],
+          "correct_answer": 2,
+          "explanation": "The ancient Egyptians built the pyramids of Giza as tombs for pharaohs."
+        },
+        {
+          "question": "When did the Berlin Wall fall?",
+          "options": [
+            "1987",
+            "1989",
+            "1991",
+            "1993"
+          ],
+          "correct_answer": 1,
+          "explanation": "The Berlin Wall fell on November 9, 1989, leading to German reunification."
+        },
+        {
+          "question": "Who painted the Mona Lisa?",
+          "options": [
+            "Vincent van Gogh",
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Pablo Picasso"
+          ],
+          "correct_answer": 1,
+          "explanation": "The Mona Lisa was painted by Leonardo da Vinci during the Italian Renaissance."
+        }
+      ]
+    },
+    {
+      "category": "دين (الإسلام)",
+      "questions": [
+        {
+          "question": "كم عدد أركان الإسلام؟",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correct_answer": 1,
+          "explanation": "أركان الإسلام خمسة: الشهادتان، إقام الصلاة، إيتاء الزكاة، صوم رمضان، حج البيت لمن استطاع إليه سبيلاً."
+        },
+        {
+          "question": "ما هو الكتاب المقدس في الإسلام؟",
+          "options": [
+            "الإنجيل",
+            "التوراة",
+            "القرآن الكريم",
+            "الزبور"
+          ],
+          "correct_answer": 2,
+          "explanation": "القرآن الكريم هو الكتاب المقدس في الإسلام، وهو كلام الله المنزل على النبي محمد صلى الله عليه وسلم."
+        },
+        {
+          "question": "كم عدد الصلوات المفروضة في اليوم والليلة؟",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correct_answer": 2,
+          "explanation": "الصلوات المفروضة خمس: الفجر، الظهر، العصر، المغرب، العشاء."
+        },
+        {
+          "question": "ما هو شهر الصيام في الإسلام؟",
+          "options": [
+            "شهر رجب",
+            "شهر رمضان",
+            "شهر شوال",
+            "شهر ذو الحجة"
+          ],
+          "correct_answer": 1,
+          "explanation": "شهر رمضان هو شهر الصيام في الإسلام، حيث يمتنع المسلمون عن الطعام والشراب من الفجر إلى المغرب."
+        },
+        {
+          "question": "من هو أول نبي في الإسلام؟",
+          "options": [
+            "نوح عليه السلام",
+            "إبراهيم عليه السلام",
+            "آدم عليه السلام",
+            "موسى عليه السلام"
+          ],
+          "correct_answer": 2,
+          "explanation": "آدم عليه السلام هو أول نبي في الإسلام، وأول البشر."
+        }
+      ]
+    }
+  ],
+  "passing_score": 15
+}
