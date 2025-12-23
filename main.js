@@ -1,4 +1,4 @@
-fetch('quiz.json').then(res => {
+fetch('/quiz.json').then(res => {
   if (!res.ok) {
     throw new Error('HTTP error!');
   }
