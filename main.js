@@ -1,5 +1,5 @@
-fetch('https://raw.githubusercontent.com/AbdoMagri/quiz/main/quiz.json
-').then(res => {
+fetch('https://raw.githubusercontent.com/AbdoMagri/quiz/main/quiz.json')
+.then(res => {
   if (!res.ok) {
     throw new Error('HTTP error!');
   }
