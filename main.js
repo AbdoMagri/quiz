@@ -1,4 +1,4 @@
-fetch('/quiz.json').then(res => {
+fetch('https://github.com/AbdoMagri/quiz/blob/main/quiz.json').then(res => {
   if (!res.ok) {
     throw new Error('HTTP error!');
   }
